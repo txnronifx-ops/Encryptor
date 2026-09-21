@@ -1,0 +1,6 @@
+{
+  "name": "10-Layer Advanced Encryptor",
+  "description": "Professional 10-layer cascading encryption for HTML files and URLs with zero watermarks and offline execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
